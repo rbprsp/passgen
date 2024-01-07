@@ -2,7 +2,7 @@
 #include <iostream>
 #include <algorithm>
 
-#include "color.hpp"
+#include "include/color.hpp"
 #include "include/clipboardxx.hpp"
 
 std::string random_string( size_t length )
